@@ -1,0 +1,20 @@
+ls -l 
+cd ../
+export var=val
+exit
+ls -l > diamanka.txt 
+pwd | wc -c 
+ls -l > yassine.txt | tr '[:lower:]' '[:upper:]'
+ls;pwd
+sleep 2
+gedit yassine.txt
+pwd 
+env
+rm yassine.txt
+mv yassine.txt ../
+cat yassine.txt
+mkdir nvdoss
+man ls
+sleep 10 &
+cat < yassine.txt
+
